@@ -1,0 +1,19 @@
+{
+    "name": "anggypermatasari/PBWL-Tugas1",
+    "description": "TUGAS-1 Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "authors": [
+        {
+            "name": "anggypermatasari",
+            "email": "anggypermatasarii@gamil.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
